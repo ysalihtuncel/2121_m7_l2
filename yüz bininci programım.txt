@@ -1,5 +1,6 @@
 BU ALANA HERHANGİ BİR ŞEY YAZABİLİRSİNİZ
 İSTEDİĞİNİZİ YAZABİLİRSİNİZ
 
+print(hello world)
 
 farklı şeyler
