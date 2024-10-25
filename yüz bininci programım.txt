@@ -4,3 +4,5 @@ BU ALANA HERHANGİ BİR ŞEY YAZABİLİRSİNİZ
 print(hello world)
 
 farklı şeyler
+
+test kanalı için örnekler eklemek
